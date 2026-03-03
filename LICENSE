@@ -1,21 +1,25 @@
-MIT License
+License for ScavengerAI
+Copyright (c) 2026 - Filipe de Oliveira Costa
 
-Copyright (c) 2026 Filipe Costa
+1. Terms of Use
+Permission is hereby granted, free of charge, to any person obtaining a copy of the ScavengerAI application (the "Software" in APK format) to:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Download and install the Software on personal devices.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Share the official link of this GitHub repository with others.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Restrictions
+You MAY NOT:
+
+Modify, adapt, translate, or create derivative works of the Software or its source code.
+
+Decompile, disassemble, or reverse engineer the Software.
+
+Distribute modified versions of the Software.
+
+Use the Software for commercial purposes without prior written consent from the author.
+
+Remove any copyright notices or branding from the Software.
+
+3. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
