@@ -5,6 +5,8 @@ The premise is straightforward: the AI assigns a mission (e.g., "Find a cup") an
 
 The app was release in Portuguese (Brazil). English version will be uploaded soon.
 
+(YOU CAN DOWNLOAD THE APK HERE)[https://github.com/olcostafilipe/scavenger-ai/releases/download/scavenger-ai-v1.0/scavenger-ai-v1.apk]
+
 ## Key Features
 **Dynamic Missions Assignment:** At the start of each round, the game engine randomly selects a target object from a curated list of indoor items. This ensures a unique challenge every time the application is launched.
 
